@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Oi, pessoal! Sou carioca e resido atualmente no Rio Grande do Sul, tenho 29 anos, médica veterinária / DEV apaixonada pela tecnologia. Ao conseguir unir minhas habilidades de comunicação em público com o domínio de trabalhar em equipe, acredito que posso dar grandes passos nesta jornada :rocket:
+Oi, pessoal! Sou uma médica veterinária / DEV apaixonada pela tecnologia. Ao conseguir unir minhas habilidades de comunicação em público com o domínio de trabalhar em equipe, acredito que posso dar grandes passos nesta jornada :rocket:
 
 Aqui neste perfil vou me deixar levar pelo embalo da minha criatividade :sparkles:
 
