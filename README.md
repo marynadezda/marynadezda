@@ -8,7 +8,7 @@ Minhas habilidades como DEV FULL STACK incluem HTML semântico, CSS, JavaScript,
 <br>
 Graduanda em Sistemas para Internet no IFSUL - Instituto Federal Sul Rio Grandense :pencil::computer:
 <br>
-Aluna DEV CLUB - Discípula de @rodolfomori22
+Aluna DEV CLUB :muscle: - Discípula de @rodolfomori22
 
 
 <br>
