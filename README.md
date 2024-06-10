@@ -6,6 +6,7 @@ Aqui neste perfil vou me deixar levar pelo embalo da minha criatividade :sparkle
 
 Minhas habilidades como DEV FULL STACK incluem HTML semântico, CSS, JavaScript, TypeScript, Git & GitHub, Node e React.
 Graduanda em Sistemas para Internet no IFSUL - Instituto Federal Sul Rio Grandense :pencil::computer:
+Aluna DEV CLUB - Discípula de @rodolfomori22   </>
 
 
 <br>
