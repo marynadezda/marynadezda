@@ -5,8 +5,10 @@ Oi, pessoal! Sou uma médica veterinária / DEV apaixonada pela tecnologia. Ao c
 Aqui neste perfil vou me deixar levar pelo embalo da minha criatividade :sparkles:
 
 Minhas habilidades como DEV FULL STACK incluem HTML semântico, CSS, JavaScript, TypeScript, Git & GitHub, Node e React.
+<br>
 Graduanda em Sistemas para Internet no IFSUL - Instituto Federal Sul Rio Grandense :pencil::computer:
-Aluna DEV CLUB - Discípula de @rodolfomori22   </>
+<br>
+Aluna DEV CLUB - Discípula de @rodolfomori22
 
 
 <br>
